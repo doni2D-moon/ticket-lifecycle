@@ -29,27 +29,30 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+![image](https://github.com/user-attachments/assets/9256823b-663b-49d8-9bd0-a384f393900a)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+At the Intake stage, a Cx contacts with a problem. In the Agent Panel, find and click "Open a New Ticket" to start filling out information for the customer. 1) Under, "Users and Collaborators," fill out information about the user (ex. name and email address). Can also add a new user in the "Lookup or create a user" window. 2)Then under "Ticket Information and Options," fill how the issue was delivered by the customer, the Help Topic, the SLA Plan, and who to assign the ticket to (ex. Level 1 Support in the Support department). 3) Under "Ticket Details, fill in the "Issue Summary" and give details about the issue.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/9e4ef3dc-d1aa-4c10-8f96-e4fa0504ca9d)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Above is a different ticket example. In the Assignment and Communication stage, if responding to a ticket a customer sends, can change the details about the ticket after further communication with the customer. Those shown with blue links can be edited. For this ticket, can change the SLA Plan from Default SLA --> Sev-A (a custom plan). On the "Ticket #: Update SLA Plan" window (2) can type information about why chose that plan. After filling out the information in the "Ticket #: Update SLA Plan," click "Update" and see the changes on the ticket page.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/20ef6f9d-ceee-4bbe-9d68-f2a3168bd2fd)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here is Working the Issue. In the ticket presented in the first step, the top section is updated with information provided under "Open a New Ticket." However, the agent, Eng Land, has limited access. Areas like "Department" and "Assigned to" can be changed. Under "Ticket Thread," Eng Land (yellow/ beige) responds by typing in the box below the conversation with information about what the user communicated was the problem with not accessing their account and methods tried and selecting "Post Reply" to show in the thread. The last communication shows a resolution to the customer's problem.
 </p>
 <br />
 
+![image](https://github.com/user-attachments/assets/7a2efaa1-75b9-4972-9c91-e57659838c89)
+
+<p>
+Here is the Resolution. Above is a ticket shown on the second step. To close out the ticket, go to and click on "Status" at the top of the page. After clicking on it, the options "Resolved" and "Closed" will show. Click "Resolved" and type a message then click "Close" to close the ticket. For example, "Cx used their phone number to reset their password, was successfully able to log into their account."
+</p>
+<br />

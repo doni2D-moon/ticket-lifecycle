@@ -43,7 +43,8 @@ Above is a different ticket example. In the Assignment and Communication stage, 
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/20ef6f9d-ceee-4bbe-9d68-f2a3168bd2fd)
+![image](https://github.com/user-attachments/assets/bb4d2b0c-a504-4ebc-9855-652204caa3b9)
+
 
 <p>
 Here is Working the Issue. In the ticket presented in the first step, the top section is updated with information provided under "Open a New Ticket." To get to this point, under the "Agent Panel," go and click on "Tickets" --> "New Ticket." From there, it will show a page with "Open a New Ticket" at the top. However, the agent, Eng Land, has limited access. Areas like "Department" and "Assigned to" can be changed. Under "Ticket Thread," Eng Land (yellow/ beige) responds by typing in the box below the conversation with information about what the user communicated was the problem with not accessing their account and methods tried and selecting "Post Reply" to show in the thread. The last communication shows a resolution to the customer's problem.
